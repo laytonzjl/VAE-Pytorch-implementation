@@ -24,4 +24,4 @@ step19生成图像
 ![image](img/step19.png)  
 
 loss图像  
-![image](img/loss.png)
+![image](img/loss.PNG)
