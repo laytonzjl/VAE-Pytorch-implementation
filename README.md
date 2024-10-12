@@ -8,6 +8,7 @@
 
 # 实验结果
 
+<p align="center">真实图像</p>
 真实图像  
 ![image](img/real.png)  
 
