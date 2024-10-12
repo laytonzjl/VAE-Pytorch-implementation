@@ -18,7 +18,7 @@ step1生成图像
 ![image](img/step1.png)
 
 step8生成图像  
-![image](step8.png)  
+![image](img/step8.png)  
 
 step19生成图像  
 ![image](img/step19.png)  
